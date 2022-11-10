@@ -41,7 +41,5 @@ def main(load_data)
     input(prompt)
 #This is supposed to give the user a prompt that would only work if print_menu function was working.
 
-#I would like to apologize to you Dr. Santore for anything not finished in this project, I am submitting it now because I wont have access to it tonight as im working late.
-#I couldn't get a good grip on the functions, im hoping the dictionaries work right. I think missing the last class really got me.
-#I should've asked for help earlier but for some reason I am scared to and this is a consequence of that terrible quality, hope you have a good evening. 
+
 
